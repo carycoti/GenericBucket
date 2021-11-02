@@ -1,17 +1,21 @@
 # Generic scoop bucket
 
+`certutil -hashfile xxxxx.zip md5`
+
+
 ❗❗🎉 Repository was converted into Template. See [blog](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/?utm_campaign=1559837005&utm_medium=social&utm_source=twitter&utm_content=1559837005) for more information. 🎉❗❗
 
 In this repository you will find everything you need to know about creating custom bucket with appveyor support.
 
-- [Files and helpers](#files-and-helpers)
+- [Generic scoop bucket](#generic-scoop-bucket)
+  - [Files and helpers](#files-and-helpers)
     - [`bucket` Folder](#bucket-folder)
     - [`bin` Folder](#bin-folder)
     - [`Bucket.Tests.ps1` File](#buckettestsps1-file)
     - [`.vscode` Folder](#vscode-folder)
     - [`.github` Folder](#github-folder)
     - [`config files`](#config-files)
-- [How to use and adopt this bucket](#how-to-use-and-adopt-this-bucket)
+  - [How to use and adopt this bucket](#how-to-use-and-adopt-this-bucket)
 
 ## Files and helpers
 
